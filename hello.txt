@@ -7,4 +7,4 @@ hello  xinxinxin! hello git!
 hello  xinxinxin! hello git!
 hello  xinxinxin! hello git!
 hello  xinxinxin! hello git! master test
-hello  xinxinxin! hello git!
+hello  xinxinxin! hello git! hot-fix test
